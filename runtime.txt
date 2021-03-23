@@ -25,6 +25,7 @@ entrypoints==0.3
 Fiona==1.8.17
 flake8==3.8.3
 Flask==1.1.2
+Frozen-Flask==0.15
 future==0.18.2
 fuzzywuzzy==0.18.0
 geopandas==0.8.1
